@@ -1,2 +1,2 @@
-# 《The C Programiming Language》Solution
-My Personal solutions to book &lt;The C Programming Language>.
+# 《The C Programiming Language》Solutions
+Personal solutions to book &lt;The C Programming Language>.
